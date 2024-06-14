@@ -19,5 +19,5 @@ func main() {
 	name := "Augustine"
 	age := 24
 
-	fmt.Printf("%s is %d years old .", name, age)
+	fmt.Printf("%v is %d years old .", name, age)
 }
